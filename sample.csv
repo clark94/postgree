@@ -1,0 +1,101 @@
+idfuncionario,funcionario,idade,estado_civil,sexo,tempo_trampo,departamento,salario
+1,Arthur,27,Casado,Masculino,13,Contabilidade,4467
+2,Alice,51,Solteiro,Feminino,7,Contabilidade,3285
+3,Laura,24,Casado,Feminino,2,Financeiro,4847
+4,Heitor,25,Solteiro,Masculino,12,Operações,3261
+5,Manuela,42,Casado,Feminino,17,Recursos Humanos,2174
+6,Valentina,53,Solteiro,Feminino,8,Contabilidade,6394
+7,Sophia,36,Solteiro,Feminino,6,Contabilidade,6689
+8,Isabella,42,Casado,Feminino,10,Financeiro,2082
+9,Bernardo,54,Casado,Masculino,2,Financeiro,4843
+10,Davi,53,Solteiro,Masculino,8,Operações,6544
+11,Théo,37,Casado,Masculino,7,Operações,4629
+12,Lorenzo,59,Solteiro,Masculino,10,Recursos Humanos,5966
+13,Gabriel,58,Casado,Masculino,5,Vendas,6763
+14,Pedro,60,Casado,Masculino,12,Operações,3853
+15,Heloísa,45,Solteiro,Feminino,3,Vendas,5173
+16,Luiza,55,Solteiro,Feminino,14,Vendas,2679
+17,Júlia,23,Casado,Feminino,15,Vendas,4521
+18,Lorena,54,Casado,Feminino,10,Contabilidade,2440
+19,Lívia,34,Casado,Feminino,15,Contabilidade,6368
+20,Benjamin,36,Casado,Masculino,7,Financeiro,5197
+21,Matheus,25,Casado,Masculino,10,Vendas,5667
+22,Lucas,53,Solteiro,Masculino,9,Operações,3214
+23,Maria Luiza,45,Solteiro,Feminino,11,Recursos Humanos,5887
+24,Nicolas,40,Solteiro,Masculino,14,Financeiro,6563
+25,Cecília,33,Solteiro,Feminino,15,Vendas,3411
+26,Joaquim,26,Casado,Masculino,2,Vendas,4907
+27,Samuel,32,Solteiro,Masculino,16,Financeiro,6633
+28,Henrique,42,Solteiro,Masculino,16,Recursos Humanos,4292
+29,Rafael,62,Casado,Masculino,18,Financeiro,3544
+30,Eloá,39,Casado,Feminino,10,Vendas,5585
+31,Giovanna,25,Solteiro,Feminino,12,Vendas,4420
+32,Guilherme,28,Solteiro,Masculino,4,Contabilidade,4047
+33,Enzo,27,Solteiro,Masculino,16,Contabilidade,2193
+34,Maria Clara,47,Solteiro,Feminino,3,Financeiro,2395
+35,Maria Eduarda,32,Casado,Feminino,13,Operações,5962
+36,Mariana,36,Casado,Feminino,13,Recursos Humanos,2672
+37,Lara,49,Solteiro,Feminino,21,Vendas,2108
+38,Beatriz,39,Solteiro,Feminino,6,Vendas,5722
+39,Murilo,59,Solteiro,Masculino,6,Vendas,4614
+40,Benício,60,Casado,Masculino,9,Financeiro,6618
+41,Gustavo,57,Casado,Masculino,12,Contabilidade,2273
+42,Isaac,46,Solteiro,Masculino,12,Operações,5702
+43,Antonella,30,Casado,Feminino,3,Operações,2503
+44,João Miguel,23,Solteiro,Masculino,7,Contabilidade,3525
+45,Lucca,37,Solteiro,Masculino,11,Vendas,5126
+46,Enzo Gabriel,46,Solteiro,Masculino,8,Vendas,2959
+47,Pedro Henrique,55,Solteiro,Masculino,15,Recursos Humanos,4288
+48,Felipe,41,Solteiro,Masculino,7,Financeiro,6004
+49,João Pedro,30,Casado,Masculino,14,Financeiro,3877
+50,Pietro,61,Casado,Masculino,17,Contabilidade,2779
+51,Anthony,45,Casado,Masculino,4,Contabilidade,5375
+52,Maria Júlia,34,Solteiro,Feminino,2,Contabilidade,6403
+53,Emanuelly,23,Casado,Feminino,7,Financeiro,5150
+54,Daniel,58,Solteiro,Masculino,10,Operações,3188
+55,Isadora,55,Casado,Feminino,12,Recursos Humanos,5056
+56,Ana Clara,62,Solteiro,Feminino,18,Contabilidade,3192
+57,Melissa,38,Solteiro,Feminino,5,Contabilidade,6072
+58,Ana Luiza,56,Casado,Feminino,11,Financeiro,2679
+59,Bryan,42,Casado,Masculino,7,Financeiro,5978
+60,Davi Lucca,45,Solteiro,Masculino,17,Operações,5812
+61,Leonardo,58,Casado,Masculino,14,Operações,4841
+62,Vicente,50,Solteiro,Masculino,17,Recursos Humanos,4306
+63,Eduardo,52,Casado,Masculino,2,Vendas,5919
+64,Gael,25,Casado,Masculino,10,Operações,2861
+65,Ana Júlia,43,Solteiro,Feminino,19,Vendas,3195
+66,Esther,59,Solteiro,Feminino,14,Vendas,2820
+67,Lavínia,52,Casado,Feminino,5,Vendas,4817
+68,Maitê,56,Casado,Feminino,6,Contabilidade,6303
+69,Maria Cecília,33,Casado,Feminino,7,Contabilidade,3170
+70,Antônio,45,Casado,Masculino,9,Financeiro,3583
+71,Vitor,39,Casado,Masculino,4,Vendas,4601
+72,Noah,36,Solteiro,Masculino,5,Operações,6109
+73,Maria Alice,24,Solteiro,Feminino,15,Recursos Humanos,3815
+74,Caio,38,Solteiro,Masculino,15,Financeiro,3121
+75,Sarah,50,Solteiro,Feminino,14,Vendas,2267
+76,João,49,Casado,Masculino,3,Vendas,2971
+77,Emanuel,56,Solteiro,Masculino,9,Financeiro,2398
+78,Cauã,35,Solteiro,Masculino,12,Recursos Humanos,3949
+79,João Lucas,28,Casado,Masculino,10,Financeiro,4805
+80,Elisa,32,Casado,Feminino,3,Vendas,6065
+81,Liz,23,Solteiro,Feminino,10,Vendas,4532
+82,Calebe,25,Solteiro,Masculino,14,Contabilidade,3613
+83,Enrico,38,Solteiro,Masculino,8,Contabilidade,3633
+84,Yasmin,60,Solteiro,Feminino,14,Financeiro,3326
+85,Isabelly,51,Casado,Feminino,15,Operações,5022
+86,Alícia,46,Casado,Feminino,15,Recursos Humanos,2449
+87,Clara,33,Solteiro,Feminino,5,Vendas,6521
+88,Isis,58,Solteiro,Feminino,17,Vendas,2997
+89,Vinícius,50,Solteiro,Masculino,13,Vendas,4915
+90,Bento,30,Casado,Masculino,17,Financeiro,4499
+91,John Arthur,56,Casado,Masculino,6,Contabilidade,2305
+92,Chris Ashton,60,Solteiro,Masculino,12,Operações,6158
+93,Rebeca,39,Casado,Feminino,5,Operações,6460
+94,John Ault,24,Solteiro,Masculino,4,Contabilidade,3791
+95,Robert Avalos,39,Solteiro,Masculino,16,Vendas,5885
+96,Stephen Ayers,42,Solteiro,Masculino,15,Vendas,2069
+97,Phillip Bacalzo,47,Solteiro,Masculino,2,Recursos Humanos,5300
+98,Daniel Blanco,50,Solteiro,Masculino,8,Financeiro,4743
+99,Cory Booth,61,Casado,Masculino,15,Financeiro,6739
+100,Mark Anderson,29,Casado,Masculino,4,Contabilidade,4447
